@@ -1,6 +1,6 @@
 [virtualbox]
 name=VirtualBox for openSUSE Leap
-enabled=1
+enabled=0
 autorefresh=1
 baseurl=https://download.virtualbox.org/virtualbox/rpm/opensuse/15.0/x86_64
 path=/
