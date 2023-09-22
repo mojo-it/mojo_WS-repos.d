@@ -1,6 +1,6 @@
-[teams]
-name=teams
-enabled=1
+[MS teams]
+name=MS teams
+enabled=0
 autorefresh=1
 baseurl=https://packages.microsoft.com/yumrepos/ms-teams
 type=rpm-md
