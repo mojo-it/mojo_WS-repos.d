@@ -1,0 +1,8 @@
+[network]
+name=Networking services and related tools (openSUSE_Leap_$releasever)
+enabled=1
+autorefresh=1
+baseurl=https://download.opensuse.org/repositories/network/$releasever/
+path=/
+type=rpm-md
+keeppackages=0

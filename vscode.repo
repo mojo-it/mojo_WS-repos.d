@@ -1,0 +1,6 @@
+[vscode]
+enabled=1
+autorefresh=1
+baseurl=https://packages.microsoft.com/yumrepos/vscode
+type=rpm-md
+keeppackages=0

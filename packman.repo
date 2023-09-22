@@ -1,0 +1,7 @@
+[packman]
+enabled=1
+autorefresh=1
+baseurl=https://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_$releasever/
+type=rpm-md
+priority=90
+keeppackages=0

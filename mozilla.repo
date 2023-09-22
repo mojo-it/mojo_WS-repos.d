@@ -1,0 +1,8 @@
+[http-download.opensuse.org-dae55c54]
+name=mozilla
+enabled=1
+autorefresh=1
+baseurl=http://download.opensuse.org/repositories/mozilla/openSUSE_Leap_${releasever}/
+path=/
+type=rpm-md
+keeppackages=0

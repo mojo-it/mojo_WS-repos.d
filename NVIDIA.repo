@@ -1,0 +1,9 @@
+[NVIDIA]
+enabled=1
+autorefresh=1
+baseurl=https://download.nvidia.com/opensuse/leap/$releasever
+        http://download.nvidia.com/opensuse/leap/$releasever
+type=rpm-md
+gpgcheck=1
+gpgkey=http://developer.download.nvidia.com/compute/cuda/repos/opensuse15/x86_64/7fa2af80.pub
+keeppackages=1

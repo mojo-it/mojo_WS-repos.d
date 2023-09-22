@@ -1,0 +1,10 @@
+[teamviewer]
+name=TeamViewer - $basearch
+enabled=1
+autorefresh=1
+baseurl=https://linux.teamviewer.com/yum/stable/main/binary-$basearch/
+type=rpm-md
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://linux.teamviewer.com/pubkey/currentkey.asc
+keeppackages=0

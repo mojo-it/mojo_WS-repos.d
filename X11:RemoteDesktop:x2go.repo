@@ -1,0 +1,8 @@
+[X11:RemoteDesktop:x2go]
+name=X11:RemoteDesktop:x2go
+enabled=1
+autorefresh=1
+baseurl=https://download.opensuse.org/repositories/X11:/RemoteDesktop:/x2go/$releasever/
+path=/
+type=rpm-md
+keeppackages=0

@@ -1,0 +1,8 @@
+[teams]
+name=teams
+enabled=1
+autorefresh=1
+baseurl=https://packages.microsoft.com/yumrepos/ms-teams
+type=rpm-md
+gpgkey=https://packages.microsoft.com/keys/microsoft.asc
+keeppackages=0
