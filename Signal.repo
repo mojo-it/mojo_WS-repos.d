@@ -1,6 +1,6 @@
 [https-download.opensuse.org-15736fd9]
 name=network:im:signal
-enabled=1
+enabled=0
 autorefresh=1
 baseurl=https://download.opensuse.org/repositories/network:/im:/signal/$releasever/
 type=rpm-md
