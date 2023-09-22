@@ -1,6 +1,6 @@
 [teamviewer]
 name=TeamViewer - $basearch
-enabled=1
+enabled=0
 autorefresh=1
 baseurl=https://linux.teamviewer.com/yum/stable/main/binary-$basearch/
 type=rpm-md
