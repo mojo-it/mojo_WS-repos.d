@@ -1,9 +1,9 @@
 [network_cryptocurrencies]
-name=Crypto currencies (openSUSE_Leap_$releasever0)
-enabled=1
+name=Crypto currencies (openSUSE_Leap_$releasever)
+enabled=0
 autorefresh=1
 baseurl=https://download.opensuse.org/repositories/network:/cryptocurrencies/openSUSE_Leap_$releasever/
 type=rpm-md
 gpgcheck=1
 gpgkey=https://download.opensuse.org/repositories/network:/cryptocurrencies/openSUSE_Leap_$releasever/repodata/repomd.xml.key
-keeppackages=0
+keeppackages=1
