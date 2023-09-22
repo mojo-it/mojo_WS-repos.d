@@ -1,7 +1,7 @@
 [network_messaging_matrix]
 name=Matrix - An open network for secure, decentralized communication. (15.5)
-enabled=1
-autorefresh=0
+enabled=0
+autorefresh=1
 baseurl=https://download.opensuse.org/repositories/network:/messaging:/matrix/15.5/
 type=rpm-md
 gpgcheck=1
