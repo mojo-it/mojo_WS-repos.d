@@ -1,6 +1,6 @@
 [IM-Messaging]
 name=server:messaging
-enabled=1
+enabled=0
 autorefresh=1
 baseurl=https://download.opensuse.org/repositories/server:/messaging/$releasever/
 type=rpm-md
